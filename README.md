@@ -8,7 +8,7 @@ Transformo dados complexos em sistemas confiáveis e decisões claras: da modela
 
 ## 🙋‍♀️ Sobre mim
 
-Venho do **setor bancário**, onde trabalho com dados e governança. Uso **Power BI desde 2024** e me apaixonei por análise de dados e design de dashboards.
+Atuo no **setor bancário**, onde trabalho com dados e governança. Uso **Power BI desde 2024** e me apaixonei por análise de dados e design de dashboards.
 
 Desde **janeiro/2025** atuo no **CRM**. Comecei em Inteligência de Clientes, gerando perfis e insights a partir de bases em **SQL** e construindo dashboards junto com as áreas. Hoje estou em compliance e endomarketing, cuidando de dashboards e participando de um projeto de treinamento de IA para otimizar o atendimento de chamados.
 
